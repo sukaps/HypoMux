@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.egg-info
+NetBooster.exe
+nuitka-crash-report.xml
